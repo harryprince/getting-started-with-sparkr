@@ -13,4 +13,6 @@ github_username:  emaasit
 markdown: redcarpet
 highlighter: pygments
 
-exclude: ["CONTRIBUTING.md", "README.md", "book"]
+exclude: ["CONTRIBUTING.md", "README.md", "book", "extras"]
+
+
