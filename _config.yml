@@ -11,6 +11,6 @@ github_username:  emaasit
 
 # Build settings
 markdown: redcarpet
-highlighter: pygment
+highlighter: pygments
 
 exclude: ["CONTRIBUTING.md", "README.md", "book"]
