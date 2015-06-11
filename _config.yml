@@ -1,5 +1,5 @@
 # Site settings
-naem: Getting Started with SparkR for Big Data Analysis
+name: Getting Started with SparkR for Big Data Analysis
 title: Getting Started with SparkR for Big Data Analysis
 email: daniel.emaasit@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
