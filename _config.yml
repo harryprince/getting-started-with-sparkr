@@ -10,3 +10,5 @@ github_username:  emaasit
 
 # Build settings
 markdown: kramdown
+
+exclude: ['README.md']
