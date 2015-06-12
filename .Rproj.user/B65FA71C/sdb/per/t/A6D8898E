@@ -1,0 +1,17 @@
+{
+    "contents" : "---\nlayout: default\ntitle: Welcome\noutput: bookdown::html_chapter\n---\n\n# Getting Started with SparkR for Big Data Analysis\n\nR is a popular statistical programming language with a number of extensions that support data processing and machine learning tasks. However, interactive data analysis in R is usually limited as the runtime is single-threaded and can only process data sets that fit in a single machine’s memory.  SparkR, an R package initially developed at the AMPLab, provides an R frontend to Apache Spark and using Spark’s distributed computation engine allows us to run large scale data analysis from the R shell.\n\n<ul class=\"toc\">\n  {% include book-nav.html %}\n</ul>\n\n",
+    "created" : 1434118109145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2826670236",
+    "id" : "A6D8898E",
+    "lastKnownWriteTime" : 1434036548,
+    "path" : "C:/Users/Emaasit/Dropbox/MyBooks/getting-started-with-sparkr/index.rmd",
+    "project_path" : "index.rmd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
