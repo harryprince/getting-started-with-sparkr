@@ -1,9 +1,9 @@
 ---
-title: What is R?
+title: Quick Start?
 layout: default
 output: bookdown::html_chapter
 ---
 
-# What is R?
+# Quick Start?
 
 This chapter is not yet ready for public viewing. Check back soon.

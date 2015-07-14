@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: introduction
 layout: default
 output: bookdown::html_chapter
 ---
