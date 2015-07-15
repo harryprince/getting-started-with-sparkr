@@ -1,105 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec2ab86-1dfb-4c57-8b2d-af973a29e5d8" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\Data-structures.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\Overview.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\Summary-1.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\Summary-2.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\Summary-3.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\What-is-r.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\contribute.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\chapters\index.rmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\cran-package.graffle\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\cran-package.graffle\data.plist" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\cran-package.graffle\image1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\cran-package.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\installation.graffle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\installation.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\loading.graffle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\loading.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\package-files.graffle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\package-files.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\pull-request-process.graffle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\diagrams\pull-request-process.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\internal-overhead.R" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\pkg-paths.R" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\.Rbuildignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\DESCRIPTION" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\NAMESPACE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\R\add.R" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\src.c.Rproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\src\add.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\src\add.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\extras\src.c\src\src.c.so" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\figure\Computing-on-the-language\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\figure\Computing-on-the-language\plot-labels-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\r-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\arrows2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\build-reload-opts-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\build-reload-opts.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\build-reload.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\cran-checks.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\create-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\create-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\create-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\file-finder.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-added.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-branch.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-chunk.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-clone-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-clone-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-clone-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-clone-github.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-commit-amend.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-commit-conflict.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-commit-window.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-commit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-config-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-config.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-deleted.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-diff-window.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-diff.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-dropdown.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-history-window.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-history.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-ignore.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-local-commits.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-modified-staged.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-modified.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-no-remote.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-pane.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-proj-config.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-push.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-renamed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-stage.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\git-unknown.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\github-branches.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\github-comment-line.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\github-fork.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\keyboard-shortcuts.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\knit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\man-add.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\new-cpp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\new-project.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\pr-changes.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\pr-commits.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\pr-conversation.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\pr-create.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\pr.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\project-options-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\project-options-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\project-options-build.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\screenshots\style-options.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\spark-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\spark-logo2.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshots/Thumbs.db" afterPath="$PROJECT_DIR$/screenshots/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rhistory" afterPath="$PROJECT_DIR$/.Rhistory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5ec2ab86-1dfb-4c57-8b2d-af973a29e5d8" name="Default" comment="" />
     <ignored path="getting-started-with-sparkr.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +24,7 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3880596">
+            <state vertical-scroll-proportion="0.0">
               <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
               <folding />
             </state>
@@ -132,8 +34,8 @@
       <file leaf-file-name="book-nav.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.027939465">
-              <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.16763678">
+              <caret line="6" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -142,7 +44,7 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5454545">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -152,7 +54,7 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -162,7 +64,7 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -172,7 +74,7 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4545455">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
@@ -228,6 +130,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,7 +141,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -303,8 +205,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -341,6 +243,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -428,7 +378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5454545">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -436,7 +386,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4545455">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
@@ -460,7 +410,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3880596">
+        <state vertical-scroll-proportion="0.0">
           <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
           <folding />
         </state>
@@ -468,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027939465">
-          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.16763678">
+          <caret line="6" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="41" />
           <folding />
         </state>
       </provider>
