@@ -12,12 +12,11 @@ This book is being developed in the open, and I highly encourage you to contribu
   
     * Click the "edit this page" button on the sidebar
   
-    * Make the changes using github's in-page editor and save.
+    * Make and save your changes using github's in-page editor.
     
     * Submit a pull request including a brief description of your changes e.g. "fixed typo" 
       
     * If you make significant changes, include the phrase "I assign the 
-      copyright of this contribution to Daniel Emaasit" - I need this so I can 
-      publish the printed book.  
+      copyright of this contribution to Daniel Emaasit" - I need this to publish the printed book.  
       
-* If you have any suggestions, comments, or there's something confusing in the book, please [contact me](mailto:daniel.emaasit@gmail.com).
+* If you have any suggestions, comments, or reviews about the book, please don't hesitate to [contact me](mailto:daniel.emaasit@gmail.com).
