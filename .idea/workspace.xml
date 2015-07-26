@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec2ab86-1dfb-4c57-8b2d-af973a29e5d8" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\.Rproj.user\B65FA71C\sdb\per\t\1FF7FB0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Emaasit\Dropbox\MyBooks\getting-started-with-sparkr\.Rproj.user\B65FA71C\sdb\per\t\98C982D" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rhistory" afterPath="$PROJECT_DIR$/.Rhistory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/800F5BC" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/800F5BC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/per/t/98C982D" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/per/t/98C982D" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/4C5489F4" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/4C5489F4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/INDEX" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/sdb/prop/INDEX" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/book-nav.html" afterPath="$PROJECT_DIR$/_includes/book-nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contribute.rmd" afterPath="$PROJECT_DIR$/contribute.rmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/files-pane.pper" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/files-pane.pper" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/source-pane.pper" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/source-pane.pper" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/windowlayoutstate.pper" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/windowlayoutstate.pper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/workbench-pane.pper" afterPath="$PROJECT_DIR$/.Rproj.user/B65FA71C/pcs/workbench-pane.pper" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="getting-started-with-sparkr.iws" />
@@ -30,21 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="book-nav.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6426077">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.72642606">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -99,7 +92,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,37 +110,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getting-started-with-sparkr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getting-started-with-sparkr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getting-started-with-sparkr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getting-started-with-sparkr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -250,6 +215,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -479,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="3.2409778">
           <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
           <folding />
         </state>
@@ -487,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/book-nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6426077">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.72642606">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
           <folding />
         </state>
       </provider>
